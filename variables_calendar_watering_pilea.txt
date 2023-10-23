@@ -1,0 +1,1 @@
+{'pilea': {'last_watering': datetime.date(2023, 11, 1)}}
